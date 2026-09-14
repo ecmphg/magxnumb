@@ -1,0 +1,9 @@
+{
+  "name": "MAG NUMB",
+  "short_name": "MAG NUMB",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#08080b",
+  "theme_color": "#0a0a0d",
+  "description": "Official MAG NUMB / magxnumb creator links."
+}
